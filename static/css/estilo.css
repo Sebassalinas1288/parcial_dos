@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+html{
+  font-family:"Poetsen One";
+  background: #7aedff;
+}
+
+table{
+  background-color: #fff;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
